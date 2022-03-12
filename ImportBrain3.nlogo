@@ -1,3 +1,10 @@
+;; Image Editor https://pixlr.com/
+;; Dog park count example https://ccl.northwestern.edu/netlogo/bind/primitive/count.html
+;; General Documentation https://ccl.northwestern.edu/netlogo/docs/dictionary.html
+;; pcolor map http://ccl.northwestern.edu/netlogo/docs/programming.html#colors
+
+
+
 extensions [import-a fetch]
 
 globals [
