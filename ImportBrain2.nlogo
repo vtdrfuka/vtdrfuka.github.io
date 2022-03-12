@@ -26,7 +26,7 @@ end
 
 to setup
   clear-all
-  fetch:url-async "https://vtdrfuka.github.io/download.png" import-a:pcolors
+  fetch:url-async "https://vtdrfuka.github.io/brainsmall.png" import-a:pcolors
   set show-water? true
   ask patches [
     set water pcolor
