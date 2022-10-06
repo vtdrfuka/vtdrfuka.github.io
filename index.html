@@ -1,1 +1,37 @@
-Hello From Dan!
+<html>
+<head>
+    <script>
+        function testVariable() {
+            var strTextAnim = document.getElementById("textAnim").value;
+            var strTextTree = document.getElementById("textTree").value;
+            var strTextCars = document.getElementById("textCars").value;
+            var result = strTextAnim + ',Russell,' + strTextCars +' ;'+ strTextTree + ' https://www.w3schools.com/tags/tag_select.asp';
+            document.getElementById('spanResult').textContent = result;
+        }
+    </script>
+</head>
+<body>
+<label for="Animals">Choose a Animal:</label>
+<br>
+    <input type="text" id="textAnim" />
+
+<br>
+<label for="cars">Choose a car:</label>
+<br>
+    <select name="cars" id="textCars">
+     <option value="volvo">Volvo</option>
+     <option value="saab">Saab</option>
+     <option value="mercedes">Mercedes</option>
+     <option value="audi">Audi</option>
+    </select>
+<br>
+<label for="Trees">Choose a Tree:</label>
+<br>
+    <input type="text" id="textTree" />
+<br>
+    <button  onclick="testVariable()">Submit</button> <br />
+<br>
+    <span id="spanResult">
+    </span>
+</body>
+</html>
