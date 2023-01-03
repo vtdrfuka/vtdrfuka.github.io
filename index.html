@@ -1,47 +1,61 @@
+<!DOCTYPE html>
 <html>
-<head>
-    <script>
-        function testVariable() {
-            var strTextAnim = document.getElementById("textAnim").value;
-            var strTextTree = document.getElementById("textTree").value;
-            var strTextCars = document.getElementById("textCars").value;
-            var result = strTextAnim + ',Russell,' + strTextCars +' ;'+ strTextTree + ' https://www.w3schools.com/tags/tag_select.asp';
-            document.getElementById('spanResult').textContent = result;
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>KML Click Capture Sample</title>
+    <style>
+      html, body {
+        height: 370px;
+        padding: 0;
+        margin: 0;
         }
-    </script>
-</head>
-<body>
-   <div class="mapouter"><div class="gmap_canvas">
-       <iframe width="700" height="370" id="gmap_canvas" src="https://maps.google.com/maps?q=&t=k&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
-       </iframe>
-       <a href="https://putlocker-is.org">putlocker</a><br><style>.mapouter{position:relative;text-align:right;height:370px;width:700px;}
-       </style>
-       <a href="https://www.embedgooglemap.net">embedgooglemap.net</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:370px;width:700px;}
-       </style>
-       </div>
-    </div>
-    
-<label for="Animals">Choose a Animal:</label>
-<br>
-    <input type="text" id="textAnim" />
+      #map {
+       height: 360px;
+       width: 300px;
+       overflow: hidden;
+       float: left;
+       border: thin solid #333;
+       }
+      #capture {
+       height: 360px;
+       width: 480px;
+       overflow: hidden;
+       float: left;
+       background-color: #ECECFB;
+       border: thin solid #333;
+       border-left: none;
+       }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <div id="capture"></div>
+    <script>
+      var map;
+      var src = 'https://developers.google.com/maps/documentation/javascript/examples/kml/westcampus.kml';
 
-<br>
-<label for="cars">Choose a car:</label>
-<br>
-    <select name="cars" id="textCars">
-     <option value="volvo">Volvo</option>
-     <option value="saab">Saab</option>
-     <option value="mercedes">Mercedes</option>
-     <option value="audi">Audi</option>
-    </select>
-<br>
-<label for="Trees">Choose a Tree:</label>
-<br>
-    <input type="text" id="textTree" />
-<br>
-    <button  onclick="testVariable()">Submit</button> <br />
-<br>
-    <span id="spanResult">
-    </span>
-</body>
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: new google.maps.LatLng(-19.257753, 146.823688),
+          zoom: 2,
+          mapTypeId: 'terrain'
+        });
+
+        var kmlLayer = new google.maps.KmlLayer(src, {
+          suppressInfoWindows: true,
+          preserveViewport: false,
+          map: map
+        });
+        kmlLayer.addListener('click', function(event) {
+          var content = event.featureData.infoWindowHtml;
+          var testimonial = document.getElementById('capture');
+          testimonial.innerHTML = content;
+        });
+      }
+    </script>
+    <script async
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhkcVO7gLdmDGiiVPk9irtfxrTEvcUoos&callback=initMap">
+    </script>
+  </body>
 </html>
