@@ -1,0 +1,2336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name>ch2sloc</name>
+<description><![CDATA[Data for ch2sloc in USA. See http://www.faa.gov for more information.]]></description>
+
+<Style id="style1">
+  <IconStyle>
+    <Icon>
+      <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<Placemark>
+  <name>Dam on 194RF</name>
+  <description><![CDATA[<b>owner:</b> 194RF <br><b>dates:</b> 194RF]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.809475648547,43.6119792161905
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 514SH</name>
+  <description><![CDATA[<b>owner:</b> 514SH <br><b>dates:</b> 514SH]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.778902208567,43.6096707461576
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 220KJ</name>
+  <description><![CDATA[<b>owner:</b> 220KJ <br><b>dates:</b> 220KJ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.875987693607,43.6548698807354
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 96MW </name>
+  <description><![CDATA[<b>owner:</b> 96MW  <br><b>dates:</b> 96MW ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.549874253684,44.9655065045694
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 22FE </name>
+  <description><![CDATA[<b>owner:</b> 22FE  <br><b>dates:</b> 22FE ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.55757016678,44.9580824637554
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 893RM</name>
+  <description><![CDATA[<b>owner:</b> 893RM <br><b>dates:</b> 893RM]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.533946068853,44.7440678098279
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 924DG</name>
+  <description><![CDATA[<b>owner:</b> 924DG <br><b>dates:</b> 924DG]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.582242841304,44.7717476587586
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 6281D</name>
+  <description><![CDATA[<b>owner:</b> 6281D <br><b>dates:</b> 6281D]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.640587690656,45.0315717764568
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 61HR </name>
+  <description><![CDATA[<b>owner:</b> 61HR  <br><b>dates:</b> 61HR ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.59570776044,45.0181418818683
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 723T </name>
+  <description><![CDATA[<b>owner:</b> 723T  <br><b>dates:</b> 723T ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.579729632146,45.0020464490802
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 108JK</name>
+  <description><![CDATA[<b>owner:</b> 108JK <br><b>dates:</b> 108JK]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.560313929702,44.9915004364025
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 241LH</name>
+  <description><![CDATA[<b>owner:</b> 241LH <br><b>dates:</b> 241LH]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.538997089929,44.9890090037942
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 44671</name>
+  <description><![CDATA[<b>owner:</b> 44671 <br><b>dates:</b> 44671]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.455570293657,44.0655812619149
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 796T </name>
+  <description><![CDATA[<b>owner:</b> 796T  <br><b>dates:</b> 796T ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.453350504329,44.0542120023353
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 23310</name>
+  <description><![CDATA[<b>owner:</b> 23310 <br><b>dates:</b> 23310]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.431444285199,44.0540678149486
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 962DT</name>
+  <description><![CDATA[<b>owner:</b> 962DT <br><b>dates:</b> 962DT]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.43284839099,44.0889585647178
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 6465D</name>
+  <description><![CDATA[<b>owner:</b> 6465D <br><b>dates:</b> 6465D]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.429229438632,44.1030347983087
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 3830B</name>
+  <description><![CDATA[<b>owner:</b> 3830B <br><b>dates:</b> 3830B]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.471910502928,44.0965762844414
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 133AM</name>
+  <description><![CDATA[<b>owner:</b> 133AM <br><b>dates:</b> 133AM]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.431675033237,44.0710798252338
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 897BL</name>
+  <description><![CDATA[<b>owner:</b> 897BL <br><b>dates:</b> 897BL]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.437358220577,44.0611486829555
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 832BS</name>
+  <description><![CDATA[<b>owner:</b> 832BS <br><b>dates:</b> 832BS]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.462182437854,44.036963232019
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 7208A</name>
+  <description><![CDATA[<b>owner:</b> 7208A <br><b>dates:</b> 7208A]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.460494055429,44.0268346283945
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 748DL</name>
+  <description><![CDATA[<b>owner:</b> 748DL <br><b>dates:</b> 748DL]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.432518803657,44.0214021837084
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 6220S</name>
+  <description><![CDATA[<b>owner:</b> 6220S <br><b>dates:</b> 6220S]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.301824026857,43.9939491714065
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 6285B</name>
+  <description><![CDATA[<b>owner:</b> 6285B <br><b>dates:</b> 6285B]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.078956770289,43.0317505674706
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 271R </name>
+  <description><![CDATA[<b>owner:</b> 271R  <br><b>dates:</b> 271R ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.905394582814,43.0097832450685
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 97GD </name>
+  <description><![CDATA[<b>owner:</b> 97GD  <br><b>dates:</b> 97GD ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.873078769318,42.9879587610889
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 199DD</name>
+  <description><![CDATA[<b>owner:</b> 199DD <br><b>dates:</b> 199DD]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.811804004052,42.9653626869531
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 14FU </name>
+  <description><![CDATA[<b>owner:</b> 14FU  <br><b>dates:</b> 14FU ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.792510781739,45.8031793557177
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 130R </name>
+  <description><![CDATA[<b>owner:</b> 130R  <br><b>dates:</b> 130R ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.780093774339,45.8081237093979
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 64323</name>
+  <description><![CDATA[<b>owner:</b> 64323 <br><b>dates:</b> 64323]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.749163545747,45.8107904203077
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 103CH</name>
+  <description><![CDATA[<b>owner:</b> 103CH <br><b>dates:</b> 103CH]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.713255811535,45.8060917601838
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 43639</name>
+  <description><![CDATA[<b>owner:</b> 43639 <br><b>dates:</b> 43639]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.84506285966,43.5958370431139
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 322MD</name>
+  <description><![CDATA[<b>owner:</b> 322MD <br><b>dates:</b> 322MD]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.991904619709,43.4405256181928
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 241GY</name>
+  <description><![CDATA[<b>owner:</b> 241GY <br><b>dates:</b> 241GY]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.966611144935,43.4586204493653
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 98VE </name>
+  <description><![CDATA[<b>owner:</b> 98VE  <br><b>dates:</b> 98VE ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.015582879943,43.2218498855284
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 4370Y</name>
+  <description><![CDATA[<b>owner:</b> 4370Y <br><b>dates:</b> 4370Y]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.069340254067,43.2251300874488
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 98SK </name>
+  <description><![CDATA[<b>owner:</b> 98SK  <br><b>dates:</b> 98SK ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.814927681849,43.3245686796122
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 4336P</name>
+  <description><![CDATA[<b>owner:</b> 4336P <br><b>dates:</b> 4336P]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.947673366328,44.6634283780943
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 503TP</name>
+  <description><![CDATA[<b>owner:</b> 503TP <br><b>dates:</b> 503TP]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.832063304164,45.4014352960415
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 211EK</name>
+  <description><![CDATA[<b>owner:</b> 211EK <br><b>dates:</b> 211EK]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.847141893159,45.39051446892
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 63191</name>
+  <description><![CDATA[<b>owner:</b> 63191 <br><b>dates:</b> 63191]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.183031418782,42.9496541682414
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 120TP</name>
+  <description><![CDATA[<b>owner:</b> 120TP <br><b>dates:</b> 120TP]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.157074035712,43.2031770096414
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 245HM</name>
+  <description><![CDATA[<b>owner:</b> 245HM <br><b>dates:</b> 245HM]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.973332584172,43.0507733631924
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 203UM</name>
+  <description><![CDATA[<b>owner:</b> 203UM <br><b>dates:</b> 203UM]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.993807130517,43.1463139228085
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 955RK</name>
+  <description><![CDATA[<b>owner:</b> 955RK <br><b>dates:</b> 955RK]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.657017890933,44.2952120379759
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 5056W</name>
+  <description><![CDATA[<b>owner:</b> 5056W <br><b>dates:</b> 5056W]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.439138210805,45.1766745926613
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 285WB</name>
+  <description><![CDATA[<b>owner:</b> 285WB <br><b>dates:</b> 285WB]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.430380196519,45.1747562623491
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 997JC</name>
+  <description><![CDATA[<b>owner:</b> 997JC <br><b>dates:</b> 997JC]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.650386659543,44.9792795255205
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 1260 </name>
+  <description><![CDATA[<b>owner:</b> 1260  <br><b>dates:</b> 1260 ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.697211302379,44.9247764568458
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 7722R</name>
+  <description><![CDATA[<b>owner:</b> 7722R <br><b>dates:</b> 7722R]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.677583245109,44.9057245481092
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 6055N</name>
+  <description><![CDATA[<b>owner:</b> 6055N <br><b>dates:</b> 6055N]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.992740626528,43.0170355080303
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 621JR</name>
+  <description><![CDATA[<b>owner:</b> 621JR <br><b>dates:</b> 621JR]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.025004510356,43.2855576020357
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 61292</name>
+  <description><![CDATA[<b>owner:</b> 61292 <br><b>dates:</b> 61292]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.990440584148,43.3258949601116
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 267DB</name>
+  <description><![CDATA[<b>owner:</b> 267DB <br><b>dates:</b> 267DB]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.957787216306,43.2437843912388
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 62717</name>
+  <description><![CDATA[<b>owner:</b> 62717 <br><b>dates:</b> 62717]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.001382435419,43.4383319490056
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 53RK </name>
+  <description><![CDATA[<b>owner:</b> 53RK  <br><b>dates:</b> 53RK ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.976165308025,43.4511846894339
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 530SW</name>
+  <description><![CDATA[<b>owner:</b> 530SW <br><b>dates:</b> 530SW]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.015554950684,43.4529592288748
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 229JK</name>
+  <description><![CDATA[<b>owner:</b> 229JK <br><b>dates:</b> 229JK]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.899608765687,43.4087559007268
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 44489</name>
+  <description><![CDATA[<b>owner:</b> 44489 <br><b>dates:</b> 44489]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.89583848001,43.4115208554153
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 98GD </name>
+  <description><![CDATA[<b>owner:</b> 98GD  <br><b>dates:</b> 98GD ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.419216250874,44.9957784475551
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 8260D</name>
+  <description><![CDATA[<b>owner:</b> 8260D <br><b>dates:</b> 8260D]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.533938436397,44.9528234520119
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 821MC</name>
+  <description><![CDATA[<b>owner:</b> 821MC <br><b>dates:</b> 821MC]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.461780545392,44.9557684754603
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 616LW</name>
+  <description><![CDATA[<b>owner:</b> 616LW <br><b>dates:</b> 616LW]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.059269660048,43.234155261467
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 8182C</name>
+  <description><![CDATA[<b>owner:</b> 8182C <br><b>dates:</b> 8182C]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.032608681495,43.2610769867275
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 1164M</name>
+  <description><![CDATA[<b>owner:</b> 1164M <br><b>dates:</b> 1164M]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.986189849727,43.4475048298009
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 876SR</name>
+  <description><![CDATA[<b>owner:</b> 876SR <br><b>dates:</b> 876SR]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.083966835312,43.164060736177
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 2360F</name>
+  <description><![CDATA[<b>owner:</b> 2360F <br><b>dates:</b> 2360F]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.031124718817,43.1775018425029
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 260BT</name>
+  <description><![CDATA[<b>owner:</b> 260BT <br><b>dates:</b> 260BT]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.031720974749,43.1734957906367
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 2503B</name>
+  <description><![CDATA[<b>owner:</b> 2503B <br><b>dates:</b> 2503B]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.012933067392,43.1728039473699
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 457MB</name>
+  <description><![CDATA[<b>owner:</b> 457MB <br><b>dates:</b> 457MB]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.989103070844,43.1529105226953
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 203MG</name>
+  <description><![CDATA[<b>owner:</b> 203MG <br><b>dates:</b> 203MG]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.982448608486,43.1607957088159
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 410CC</name>
+  <description><![CDATA[<b>owner:</b> 410CC <br><b>dates:</b> 410CC]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.867929843445,45.3860569645075
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 994ME</name>
+  <description><![CDATA[<b>owner:</b> 994ME <br><b>dates:</b> 994ME]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.815335625484,45.4002639635701
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 6399P</name>
+  <description><![CDATA[<b>owner:</b> 6399P <br><b>dates:</b> 6399P]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.223388197106,45.339055987388
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 6231B</name>
+  <description><![CDATA[<b>owner:</b> 6231B <br><b>dates:</b> 6231B]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.424801094994,45.3854080554646
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 63968</name>
+  <description><![CDATA[<b>owner:</b> 63968 <br><b>dates:</b> 63968]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.350777034477,45.3630800503483
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 6397C</name>
+  <description><![CDATA[<b>owner:</b> 6397C <br><b>dates:</b> 6397C]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.942856044873,43.4215915667138
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 47RC </name>
+  <description><![CDATA[<b>owner:</b> 47RC  <br><b>dates:</b> 47RC ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.596466933794,45.8620993110603
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 495KW</name>
+  <description><![CDATA[<b>owner:</b> 495KW <br><b>dates:</b> 495KW]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.883639068903,45.9122975237895
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 1384X</name>
+  <description><![CDATA[<b>owner:</b> 1384X <br><b>dates:</b> 1384X]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.735253180808,43.8398537295635
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 256WS</name>
+  <description><![CDATA[<b>owner:</b> 256WS <br><b>dates:</b> 256WS]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.704834934051,43.8797395788091
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 729BJ</name>
+  <description><![CDATA[<b>owner:</b> 729BJ <br><b>dates:</b> 729BJ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.805809357629,43.8223031488766
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 678RJ</name>
+  <description><![CDATA[<b>owner:</b> 678RJ <br><b>dates:</b> 678RJ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.839349118346,43.6095057891171
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 24100</name>
+  <description><![CDATA[<b>owner:</b> 24100 <br><b>dates:</b> 24100]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.639003682065,44.2929810010697
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 112KM</name>
+  <description><![CDATA[<b>owner:</b> 112KM <br><b>dates:</b> 112KM]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.8842774204,44.1592871435226
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 2395F</name>
+  <description><![CDATA[<b>owner:</b> 2395F <br><b>dates:</b> 2395F]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.744597001141,44.1906807547342
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 9777N</name>
+  <description><![CDATA[<b>owner:</b> 9777N <br><b>dates:</b> 9777N]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.739070589198,44.2588054746362
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 28RT </name>
+  <description><![CDATA[<b>owner:</b> 28RT  <br><b>dates:</b> 28RT ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.381677251764,45.2795002220326
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 9031F</name>
+  <description><![CDATA[<b>owner:</b> 9031F <br><b>dates:</b> 9031F]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.571369198849,46.179086160765
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 6104F</name>
+  <description><![CDATA[<b>owner:</b> 6104F <br><b>dates:</b> 6104F]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.692609299918,44.0001859221183
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 9036C</name>
+  <description><![CDATA[<b>owner:</b> 9036C <br><b>dates:</b> 9036C]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.806452797304,43.8647171970758
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 660TC</name>
+  <description><![CDATA[<b>owner:</b> 660TC <br><b>dates:</b> 660TC]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.836110158326,44.1708217089142
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 6076S</name>
+  <description><![CDATA[<b>owner:</b> 6076S <br><b>dates:</b> 6076S]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.914634576757,44.1928935958585
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 612NC</name>
+  <description><![CDATA[<b>owner:</b> 612NC <br><b>dates:</b> 612NC]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.94386035951,43.433093097288
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 725PC</name>
+  <description><![CDATA[<b>owner:</b> 725PC <br><b>dates:</b> 725PC]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.026802340777,43.4832527781479
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 90039</name>
+  <description><![CDATA[<b>owner:</b> 90039 <br><b>dates:</b> 90039]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.226014179584,43.5785180430709
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 2535Z</name>
+  <description><![CDATA[<b>owner:</b> 2535Z <br><b>dates:</b> 2535Z]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.232888661997,43.5680720924177
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 9003T</name>
+  <description><![CDATA[<b>owner:</b> 9003T <br><b>dates:</b> 9003T]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.233192046401,43.5567516848765
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 9003Q</name>
+  <description><![CDATA[<b>owner:</b> 9003Q <br><b>dates:</b> 9003Q]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.523447130145,43.656761960926
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 5174 </name>
+  <description><![CDATA[<b>owner:</b> 5174  <br><b>dates:</b> 5174 ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.090487140952,43.0356005298833
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 965ST</name>
+  <description><![CDATA[<b>owner:</b> 965ST <br><b>dates:</b> 965ST]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.242319167085,43.4444931232885
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 10578</name>
+  <description><![CDATA[<b>owner:</b> 10578 <br><b>dates:</b> 10578]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.590896265888,43.3389050695128
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 6158D</name>
+  <description><![CDATA[<b>owner:</b> 6158D <br><b>dates:</b> 6158D]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.579554511453,43.5293354491102
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 78ST </name>
+  <description><![CDATA[<b>owner:</b> 78ST  <br><b>dates:</b> 78ST ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.589586387872,43.5298005645528
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 277WH</name>
+  <description><![CDATA[<b>owner:</b> 277WH <br><b>dates:</b> 277WH]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.644366652257,43.1184888641101
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 4078S</name>
+  <description><![CDATA[<b>owner:</b> 4078S <br><b>dates:</b> 4078S]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.734233389974,43.5962161248147
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 114JW</name>
+  <description><![CDATA[<b>owner:</b> 114JW <br><b>dates:</b> 114JW]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.592683626879,44.7766092698545
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 11739</name>
+  <description><![CDATA[<b>owner:</b> 11739 <br><b>dates:</b> 11739]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.596319034301,44.788318688453
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 882CH</name>
+  <description><![CDATA[<b>owner:</b> 882CH <br><b>dates:</b> 882CH]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.594970335782,44.7982899077902
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 49482</name>
+  <description><![CDATA[<b>owner:</b> 49482 <br><b>dates:</b> 49482]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.585061202528,44.8101432344887
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 19BK </name>
+  <description><![CDATA[<b>owner:</b> 19BK  <br><b>dates:</b> 19BK ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.568517233213,44.8147027031869
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 41RB </name>
+  <description><![CDATA[<b>owner:</b> 41RB  <br><b>dates:</b> 41RB ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.563035158678,44.6223189910374
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 4860M</name>
+  <description><![CDATA[<b>owner:</b> 4860M <br><b>dates:</b> 4860M]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.355223020496,44.9283610840003
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 604JB</name>
+  <description><![CDATA[<b>owner:</b> 604JB <br><b>dates:</b> 604JB]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.419278573653,44.9053356316244
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 864AC</name>
+  <description><![CDATA[<b>owner:</b> 864AC <br><b>dates:</b> 864AC]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.512698574698,44.9031549249578
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 623TW</name>
+  <description><![CDATA[<b>owner:</b> 623TW <br><b>dates:</b> 623TW]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.787491236887,43.9933414699543
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 25440</name>
+  <description><![CDATA[<b>owner:</b> 25440 <br><b>dates:</b> 25440]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.831590704687,44.150931874987
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 3165M</name>
+  <description><![CDATA[<b>owner:</b> 3165M <br><b>dates:</b> 3165M]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.706953569342,44.1884011158194
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 2611A</name>
+  <description><![CDATA[<b>owner:</b> 2611A <br><b>dates:</b> 2611A]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.70603485741,44.196404854934
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 122FM</name>
+  <description><![CDATA[<b>owner:</b> 122FM <br><b>dates:</b> 122FM]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.701671372326,44.2075361972861
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 1698F</name>
+  <description><![CDATA[<b>owner:</b> 1698F <br><b>dates:</b> 1698F]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.682436254022,44.2213620478881
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 7779P</name>
+  <description><![CDATA[<b>owner:</b> 7779P <br><b>dates:</b> 7779P]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.70882858558,43.5799555065422
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 402DC</name>
+  <description><![CDATA[<b>owner:</b> 402DC <br><b>dates:</b> 402DC]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.715651838444,46.086726856637
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 138TM</name>
+  <description><![CDATA[<b>owner:</b> 138TM <br><b>dates:</b> 138TM]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.890602810088,44.2526422664514
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 30460</name>
+  <description><![CDATA[<b>owner:</b> 30460 <br><b>dates:</b> 30460]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.855853740414,44.2604906382951
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 571RS</name>
+  <description><![CDATA[<b>owner:</b> 571RS <br><b>dates:</b> 571RS]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.849522905927,44.2704638542101
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 112DD</name>
+  <description><![CDATA[<b>owner:</b> 112DD <br><b>dates:</b> 112DD]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.730601981062,44.1852675393424
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 532PV</name>
+  <description><![CDATA[<b>owner:</b> 532PV <br><b>dates:</b> 532PV]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.684726456217,44.1914823951481
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 851MY</name>
+  <description><![CDATA[<b>owner:</b> 851MY <br><b>dates:</b> 851MY]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.945719400003,43.367853313349
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 119MR</name>
+  <description><![CDATA[<b>owner:</b> 119MR <br><b>dates:</b> 119MR]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.048304249466,43.4359108349511
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 2079S</name>
+  <description><![CDATA[<b>owner:</b> 2079S <br><b>dates:</b> 2079S]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.694260385645,44.2041007109592
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 443SR</name>
+  <description><![CDATA[<b>owner:</b> 443SR <br><b>dates:</b> 443SR]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.512311400747,44.0276607383374
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 802ML</name>
+  <description><![CDATA[<b>owner:</b> 802ML <br><b>dates:</b> 802ML]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.64800864234,44.1187394390034
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 9892T</name>
+  <description><![CDATA[<b>owner:</b> 9892T <br><b>dates:</b> 9892T]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.882563506118,45.859649429405
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 450PF</name>
+  <description><![CDATA[<b>owner:</b> 450PF <br><b>dates:</b> 450PF]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.942469365263,45.9134954539602
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 39NF </name>
+  <description><![CDATA[<b>owner:</b> 39NF  <br><b>dates:</b> 39NF ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.858014172739,46.0020604090098
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 992AZ</name>
+  <description><![CDATA[<b>owner:</b> 992AZ <br><b>dates:</b> 992AZ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.937807649231,44.1137499770212
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 2084U</name>
+  <description><![CDATA[<b>owner:</b> 2084U <br><b>dates:</b> 2084U]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.083973377416,43.648441133452
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 4056Q</name>
+  <description><![CDATA[<b>owner:</b> 4056Q <br><b>dates:</b> 4056Q]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.051569254645,43.5523734093753
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 548SL</name>
+  <description><![CDATA[<b>owner:</b> 548SL <br><b>dates:</b> 548SL]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.742651297719,43.6751809220765
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 128RT</name>
+  <description><![CDATA[<b>owner:</b> 128RT <br><b>dates:</b> 128RT]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.657176904477,43.6406655725332
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 282JB</name>
+  <description><![CDATA[<b>owner:</b> 282JB <br><b>dates:</b> 282JB]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.077538009733,46.03790407635
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 530MW</name>
+  <description><![CDATA[<b>owner:</b> 530MW <br><b>dates:</b> 530MW]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.827530577357,45.8602232182179
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 266WF</name>
+  <description><![CDATA[<b>owner:</b> 266WF <br><b>dates:</b> 266WF]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.829117474199,45.8621409636635
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 265JW</name>
+  <description><![CDATA[<b>owner:</b> 265JW <br><b>dates:</b> 265JW]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.77539738295,45.9765579424335
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 923FA</name>
+  <description><![CDATA[<b>owner:</b> 923FA <br><b>dates:</b> 923FA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.766550159603,46.1870211996743
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 80034</name>
+  <description><![CDATA[<b>owner:</b> 80034 <br><b>dates:</b> 80034]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.431965651015,44.1408417423423
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 19GF </name>
+  <description><![CDATA[<b>owner:</b> 19GF  <br><b>dates:</b> 19GF ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.447817177072,44.1765481314803
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 703CF</name>
+  <description><![CDATA[<b>owner:</b> 703CF <br><b>dates:</b> 703CF]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.987450602688,43.583650044663
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 507AB</name>
+  <description><![CDATA[<b>owner:</b> 507AB <br><b>dates:</b> 507AB]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.085922752051,43.6192791925156
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 650S </name>
+  <description><![CDATA[<b>owner:</b> 650S  <br><b>dates:</b> 650S ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.882179908615,43.2964018273326
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 41478</name>
+  <description><![CDATA[<b>owner:</b> 41478 <br><b>dates:</b> 41478]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.953006532664,43.4568945331008
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 4201F</name>
+  <description><![CDATA[<b>owner:</b> 4201F <br><b>dates:</b> 4201F]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.82334533598,43.617161136141
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 53457</name>
+  <description><![CDATA[<b>owner:</b> 53457 <br><b>dates:</b> 53457]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.855058386966,43.6152686736228
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 8029U</name>
+  <description><![CDATA[<b>owner:</b> 8029U <br><b>dates:</b> 8029U]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.56818043236,43.9743450333846
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 814DJ</name>
+  <description><![CDATA[<b>owner:</b> 814DJ <br><b>dates:</b> 814DJ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.719902495531,43.8694213739015
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 8398T</name>
+  <description><![CDATA[<b>owner:</b> 8398T <br><b>dates:</b> 8398T]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.496360095143,43.7580435109792
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 167MB</name>
+  <description><![CDATA[<b>owner:</b> 167MB <br><b>dates:</b> 167MB]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.474024157792,43.7776774820748
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 392AM</name>
+  <description><![CDATA[<b>owner:</b> 392AM <br><b>dates:</b> 392AM]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.691258308167,43.915909567455
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 47EV </name>
+  <description><![CDATA[<b>owner:</b> 47EV  <br><b>dates:</b> 47EV ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.821657859132,45.8565451246966
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 104HT</name>
+  <description><![CDATA[<b>owner:</b> 104HT <br><b>dates:</b> 104HT]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.937588294126,45.9599412941496
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 381RS</name>
+  <description><![CDATA[<b>owner:</b> 381RS <br><b>dates:</b> 381RS]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.690388819314,43.9146224669009
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 5349J</name>
+  <description><![CDATA[<b>owner:</b> 5349J <br><b>dates:</b> 5349J]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.631787014231,44.7967365648965
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 234FR</name>
+  <description><![CDATA[<b>owner:</b> 234FR <br><b>dates:</b> 234FR]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.62676606027,44.8012482168048
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 398LB</name>
+  <description><![CDATA[<b>owner:</b> 398LB <br><b>dates:</b> 398LB]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.419367570049,44.9099548325058
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 90219</name>
+  <description><![CDATA[<b>owner:</b> 90219 <br><b>dates:</b> 90219]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.830543844244,44.1921062763868
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 43182</name>
+  <description><![CDATA[<b>owner:</b> 43182 <br><b>dates:</b> 43182]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.81854992981,44.1782526832523
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 479S </name>
+  <description><![CDATA[<b>owner:</b> 479S  <br><b>dates:</b> 479S ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.913141030214,44.125614837821
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 314MM</name>
+  <description><![CDATA[<b>owner:</b> 314MM <br><b>dates:</b> 314MM]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.437117633706,44.7190091453283
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 626CH</name>
+  <description><![CDATA[<b>owner:</b> 626CH <br><b>dates:</b> 626CH]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.698225937833,44.726631764479
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 104SB</name>
+  <description><![CDATA[<b>owner:</b> 104SB <br><b>dates:</b> 104SB]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.946709341523,43.6655049269207
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 111CW</name>
+  <description><![CDATA[<b>owner:</b> 111CW <br><b>dates:</b> 111CW]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.770667667816,44.5027880530232
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 157RS</name>
+  <description><![CDATA[<b>owner:</b> 157RS <br><b>dates:</b> 157RS]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.841720388332,44.5134931933399
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 380TS</name>
+  <description><![CDATA[<b>owner:</b> 380TS <br><b>dates:</b> 380TS]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.711960723446,44.5282736663874
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 5010G</name>
+  <description><![CDATA[<b>owner:</b> 5010G <br><b>dates:</b> 5010G]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.985120401029,43.15926738235
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 54SZ </name>
+  <description><![CDATA[<b>owner:</b> 54SZ  <br><b>dates:</b> 54SZ ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.960255282211,43.3844044391682
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 493KV</name>
+  <description><![CDATA[<b>owner:</b> 493KV <br><b>dates:</b> 493KV]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.827973156638,45.4066382166398
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 9345 </name>
+  <description><![CDATA[<b>owner:</b> 9345  <br><b>dates:</b> 9345 ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.757079847964,43.7402119662924
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 673BP</name>
+  <description><![CDATA[<b>owner:</b> 673BP <br><b>dates:</b> 673BP]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.850622193745,43.3576644099505
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 8182G</name>
+  <description><![CDATA[<b>owner:</b> 8182G <br><b>dates:</b> 8182G]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.812174144214,43.3183340710525
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 585TE</name>
+  <description><![CDATA[<b>owner:</b> 585TE <br><b>dates:</b> 585TE]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.012840095651,43.2173385661204
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 5025V</name>
+  <description><![CDATA[<b>owner:</b> 5025V <br><b>dates:</b> 5025V]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.078699785703,43.167085874896
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 820DW</name>
+  <description><![CDATA[<b>owner:</b> 820DW <br><b>dates:</b> 820DW]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.567002731495,45.2019127455759
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 4294S</name>
+  <description><![CDATA[<b>owner:</b> 4294S <br><b>dates:</b> 4294S]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.955718135703,43.4396028952585
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 347SM</name>
+  <description><![CDATA[<b>owner:</b> 347SM <br><b>dates:</b> 347SM]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.914608934336,43.4316717256823
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 101XX</name>
+  <description><![CDATA[<b>owner:</b> 101XX <br><b>dates:</b> 101XX]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.893189122469,43.4141738776706
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 9124T</name>
+  <description><![CDATA[<b>owner:</b> 9124T <br><b>dates:</b> 9124T]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.909241268088,43.4980443164899
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 3262Y</name>
+  <description><![CDATA[<b>owner:</b> 3262Y <br><b>dates:</b> 3262Y]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.929351084348,43.4828954494521
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 667TF</name>
+  <description><![CDATA[<b>owner:</b> 667TF <br><b>dates:</b> 667TF]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.945304177162,43.4268272232386
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 492KV</name>
+  <description><![CDATA[<b>owner:</b> 492KV <br><b>dates:</b> 492KV]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.988479996485,43.1176234246347
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 4459A</name>
+  <description><![CDATA[<b>owner:</b> 4459A <br><b>dates:</b> 4459A]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.016833484991,42.9580761091058
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 1944X</name>
+  <description><![CDATA[<b>owner:</b> 1944X <br><b>dates:</b> 1944X]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.006299429766,42.9754477215554
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 2706 </name>
+  <description><![CDATA[<b>owner:</b> 2706  <br><b>dates:</b> 2706 ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.303038012882,43.7287738311787
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 9096K</name>
+  <description><![CDATA[<b>owner:</b> 9096K <br><b>dates:</b> 9096K]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.279846660449,43.6420993021124
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 665DC</name>
+  <description><![CDATA[<b>owner:</b> 665DC <br><b>dates:</b> 665DC]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.975771241746,43.3896637879202
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 68RP </name>
+  <description><![CDATA[<b>owner:</b> 68RP  <br><b>dates:</b> 68RP ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.830318967073,44.2129423628993
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 52DJ </name>
+  <description><![CDATA[<b>owner:</b> 52DJ  <br><b>dates:</b> 52DJ ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.962252038224,43.162752075896
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 50JV </name>
+  <description><![CDATA[<b>owner:</b> 50JV  <br><b>dates:</b> 50JV ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.869069371734,43.0285834059966
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 483DB</name>
+  <description><![CDATA[<b>owner:</b> 483DB <br><b>dates:</b> 483DB]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.857654875836,43.059098908048
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 692J </name>
+  <description><![CDATA[<b>owner:</b> 692J  <br><b>dates:</b> 692J ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.892202080399,43.0017655018265
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 102TK</name>
+  <description><![CDATA[<b>owner:</b> 102TK <br><b>dates:</b> 102TK]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.851516743405,42.9946273629329
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 613ME</name>
+  <description><![CDATA[<b>owner:</b> 613ME <br><b>dates:</b> 613ME]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.358419637214,45.3896585107311
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 9006H</name>
+  <description><![CDATA[<b>owner:</b> 9006H <br><b>dates:</b> 9006H]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.38945623416,45.3658556939366
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 115BT</name>
+  <description><![CDATA[<b>owner:</b> 115BT <br><b>dates:</b> 115BT]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.413494911082,45.3722590677556
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 482RV</name>
+  <description><![CDATA[<b>owner:</b> 482RV <br><b>dates:</b> 482RV]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.421362273616,45.3775009130619
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 10260</name>
+  <description><![CDATA[<b>owner:</b> 10260 <br><b>dates:</b> 10260]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.349657217195,45.380190559622
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 101EH</name>
+  <description><![CDATA[<b>owner:</b> 101EH <br><b>dates:</b> 101EH]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.30209334412,45.3684641642823
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 597JD</name>
+  <description><![CDATA[<b>owner:</b> 597JD <br><b>dates:</b> 597JD]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.458288662325,45.173216947871
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 7503A</name>
+  <description><![CDATA[<b>owner:</b> 7503A <br><b>dates:</b> 7503A]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.422961072067,45.194524284168
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 500ZC</name>
+  <description><![CDATA[<b>owner:</b> 500ZC <br><b>dates:</b> 500ZC]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.55853893186,45.2299076119594
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 142WY</name>
+  <description><![CDATA[<b>owner:</b> 142WY <br><b>dates:</b> 142WY]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.550714509797,45.2345124258574
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 30438</name>
+  <description><![CDATA[<b>owner:</b> 30438 <br><b>dates:</b> 30438]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.582604765761,45.2246417810608
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 2034B</name>
+  <description><![CDATA[<b>owner:</b> 2034B <br><b>dates:</b> 2034B]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.576893499811,45.2137720993048
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 262HC</name>
+  <description><![CDATA[<b>owner:</b> 262HC <br><b>dates:</b> 262HC]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.553299258405,45.199318091088
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 397DW</name>
+  <description><![CDATA[<b>owner:</b> 397DW <br><b>dates:</b> 397DW]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.530312004235,45.1845857276409
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 797DK</name>
+  <description><![CDATA[<b>owner:</b> 797DK <br><b>dates:</b> 797DK]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-122.507209956508,45.1637420981266
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 804WS</name>
+  <description><![CDATA[<b>owner:</b> 804WS <br><b>dates:</b> 804WS]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.049443136622,43.4767578214663
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 8073C</name>
+  <description><![CDATA[<b>owner:</b> 8073C <br><b>dates:</b> 8073C]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-124.0021890408,43.5112261952421
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 512D </name>
+  <description><![CDATA[<b>owner:</b> 512D  <br><b>dates:</b> 512D ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.350615357189,45.4651883503323
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 90824</name>
+  <description><![CDATA[<b>owner:</b> 90824 <br><b>dates:</b> 90824]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.315713421473,45.5568950765356
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 5092L</name>
+  <description><![CDATA[<b>owner:</b> 5092L <br><b>dates:</b> 5092L]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.912554468109,43.3524340168005
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 28CH </name>
+  <description><![CDATA[<b>owner:</b> 28CH  <br><b>dates:</b> 28CH ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.447835114666,44.7305786957309
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 577TB</name>
+  <description><![CDATA[<b>owner:</b> 577TB <br><b>dates:</b> 577TB]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.457762041924,44.7361441005863
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 543BW</name>
+  <description><![CDATA[<b>owner:</b> 543BW <br><b>dates:</b> 543BW]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.467330480646,44.742065597442
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 5080K</name>
+  <description><![CDATA[<b>owner:</b> 5080K <br><b>dates:</b> 5080K]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.483231862646,44.7403013319684
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 96869</name>
+  <description><![CDATA[<b>owner:</b> 96869 <br><b>dates:</b> 96869]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.492881151403,44.7398468590608
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 7725B</name>
+  <description><![CDATA[<b>owner:</b> 7725B <br><b>dates:</b> 7725B]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.511366358762,44.7489678234876
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 605DH</name>
+  <description><![CDATA[<b>owner:</b> 605DH <br><b>dates:</b> 605DH]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.520224532305,44.754639702618
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 6207Q</name>
+  <description><![CDATA[<b>owner:</b> 6207Q <br><b>dates:</b> 6207Q]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.51992776439,44.7595399090697
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 582S </name>
+  <description><![CDATA[<b>owner:</b> 582S  <br><b>dates:</b> 582S ]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.94526210498,44.1060661829833
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Dam on 244DC</name>
+  <description><![CDATA[<b>owner:</b> 244DC <br><b>dates:</b> 244DC]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-123.963782786736,43.1665109884949
+    </coordinates>
+  </Point>
+</Placemark>
+</Document>
+</kml>
