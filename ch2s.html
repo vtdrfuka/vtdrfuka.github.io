@@ -10,15 +10,31 @@
         padding: 0;
         margin: 0;
         }
-      #map {
+      #map1 {
        height: 600px;
        width: 800px;
        overflow: hidden;
        float: left;
        border: thin solid #333;
        }
-      #capture {
+      #capture1 {
+       height: 60px;
+       width: 800px;
+       overflow: hidden;
+       float: left;
+       background-color: #ECECFB;
+       border: thin solid #333;
+       border-left: none;
+       }
+      #map2 {
        height: 600px;
+       width: 800px;
+       overflow: hidden;
+       float: left;
+       border: thin solid #333;
+       }
+      #capture2 {
+       height: 60px;
        width: 800px;
        overflow: hidden;
        float: left;
@@ -31,10 +47,10 @@
   <body>
     <br>
     CHIIs
-    <div id="map"></div>
-    <div id="capture"></div>
+    <div id="map1"></div>
+    <div id="capture1"></div>
     <script>
-      var map;
+      var map1;
       var src = 'https://raw.githubusercontent.com/vtdrfuka/vtdrfuka.github.io/main/ch2sloc3.kml';
 
       function initMap() {
@@ -47,11 +63,11 @@
         var kmlLayer = new google.maps.KmlLayer(src, {
           suppressInfoWindows: true,
           preserveViewport: false,
-          map: map
+          map: map1
         });
         kmlLayer.addListener('click', function(event) {
           var content = event.featureData.infoWindowHtml;
-          var testimonial = document.getElementById('capture');
+          var testimonial = document.getElementById('capture1');
           testimonial.innerHTML = content;
         });
       }
@@ -62,9 +78,8 @@
     <br>
     Deregistered CHIIs
     <script>
-      var map;
+      var map2;
       var src = 'https://raw.githubusercontent.com/vtdrfuka/vtdrfuka.github.io/main/ch2slocdr.kml';
-
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
           center: new google.maps.LatLng(37.0902, 95.7129),
@@ -75,11 +90,11 @@
         var kmlLayer = new google.maps.KmlLayer(src, {
           suppressInfoWindows: true,
           preserveViewport: false,
-          map: map
+          map: map2
         });
         kmlLayer.addListener('click', function(event) {
           var content = event.featureData.infoWindowHtml;
-          var testimonial = document.getElementById('capture');
+          var testimonial = document.getElementById('capture2');
           testimonial.innerHTML = content;
         });
       }
